@@ -2,3 +2,4 @@
 !/cpp/*.cpp
 /.vscode/*
 /.cph/*
+/cpp/test.cpp
