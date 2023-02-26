@@ -1,0 +1,4 @@
+/cpp/*
+!/cpp/*.cpp
+/.vscode/*
+/.cph/*
