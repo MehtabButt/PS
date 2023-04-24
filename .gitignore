@@ -1,0 +1,5 @@
+/cpp/*
+!/cpp/*.cpp
+/.vscode/*
+/.cph/*
+/auto-tester/*
